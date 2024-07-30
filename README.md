@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luiscr1104
 - 👀 I’m interested in Front End
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Astro
 - 💞️ I’m looking to collaborate on a developer team
 - 📫 How to reach me: email: luiscr1104@gmail.com
 
